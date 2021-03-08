@@ -1,5 +1,3 @@
-# Portofolio
-
 ## About
 name: 宇田川悠大 (Yudai Udagawa)
 
