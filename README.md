@@ -28,7 +28,7 @@ I love refectoring and thinking good architecture!
 ## Part-time jobs
 
 2016-2017 Refactoring test code(Dojo's Test -> Jasmine)  
-2017-2018 Development using Python and GCP to analysis customers' data  
+2017-2018 Development using Python and GCP to analyze customers' data  
 2019- Development using Vue, Vuex and PHP
 
 ## Works
