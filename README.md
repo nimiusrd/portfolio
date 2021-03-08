@@ -59,7 +59,7 @@ http://ynu.yokohama/yac2016/yac2015-rakumo%E8%B3%9E%EF%BC%9A%E3%80%8Cmarshmallow
 YAC2017 運営 / Operation  
 http://ynu.yokohama/yac2017/members/  
 
-### 高井戸第三小学校から学生の保護者に向けた連絡を配信するサイト / Blog service
+### 高井戸第三小学校から学生の保護者に向けた連絡を配信するサイト / Blog service for a school
 https://sns.taka3sh.org  
 repositry：
 https://github.com/taka3sh/sns.taka3sh.org  
