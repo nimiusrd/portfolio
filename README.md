@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## About
+name: 宇田川悠大 (Yudai Udagawa)
 
-You can use the [editor on GitHub](https://github.com/nimiusrd/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Skill
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- JavaScript/TypeScript
+  - React/Vue
+  - Redux/Vuex
+  - Jest
+  - Webpack
+  - Storybook
+  - WebSocket
+  - Flow
+  - i18n
+- Python
+  - numpy
+  - scikit-learn/scipy
+- Scala
+  - Play Framework
+  - Akka
+- GCP
 
-### Markdown
+## Performance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 人狼ゲームプラットフォームLiCOSのフロントエンド開発 / Front-end development of the werewolf game platform LiCOS
+https://ynuwaiwai.github.io/werewolf-client 
+repositry：
+https://github.com/YNUWAIWAI/werewolf-client 
+skill：
+TypeScript/React/Redux/WebSocket/Storybook 
 
-```markdown
-Syntax highlighted code block
+### 人狼ゲームプラットフォームLiCOSのHow to play等の文書公開サイト＋国際化 / Documentation and internationalization of how to play the werewolf game platform LiCOS
+https://werewolfguide.netlify.app/docs/en/introduction 
+repositry：
+https://github.com/YNUWAIWAI/werewolfguide 
+skill：TypeScript/React/Docker/Netlify/Crowdin/Docusaurus
 
-# Header 1
-## Header 2
-### Header 3
+### 人狼ゲームプラットフォームLiCOSで人狼ゲームをプレイするロボットプレイヤーをTypeScriptで開発するのためのライブラリ / TypeScript Library for developing robot players running on the werewolf game platform LiCOS
 
-- Bulleted
-- List
+repositry：
+https://github.com/YNUWAIWAI/LiCOS-JSON4TypeScript 
+skill：TypeScript/React/Redux/WebSocket 
 
-1. Numbered
-2. List
+### 横浜国大のサークルのブログサイト
+https://ynuwaiwai.github.io 
+repositry：
+https://github.com/YNUWAIWAI/YNUWAIWAI.github.io 
+skill：RubyGem/Docker
 
-**Bold** and _Italic_ and `Code` text
+### 横浜国立大学YNUアプリコンテスト / Yokohama National University application contest (YAC)
 
-[Link](url) and ![Image](src)
-```
+YAC2015 「Rakumo賞」 (Sponsor Award)： Team "Marshmallow" 
+http://ynu.yokohama/yac2016/yac2015-rakumo%E8%B3%9E%EF%BC%9A%E3%80%8Cmarshmallow%E3%80%8D%E3%83%81%E3%83%BC%E3%83%A0/ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+YAC2017 運営 / Operation 
+http://ynu.yokohama/yac2017/members/ 
 
-### Jekyll Themes
+### 高井戸第三小学校から学生の保護者に向けた連絡を配信するサイト（学校からの依頼あり)
+https://sns.taka3sh.org 
+repositry：
+https://github.com/taka3sh/sns.taka3sh.org 
+skill：TypeScript/React/Go/Firebase/GAE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nimiusrd/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
