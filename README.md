@@ -2,7 +2,7 @@
 ## About
 name: 宇田川悠大 (Yudai Udagawa)  
 from: Japan, Tokyo  
-affiliation: 1st year of Master course at Yokohama National University, Graduate School of Engineering Science
+affiliation: 1st year of Master course at Yokohama National University, Graduate School of Engineering Science  
 hobby: Pokémon GO
 
 ## Skill
