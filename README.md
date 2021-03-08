@@ -1,6 +1,5 @@
 ---
 title: Portfolio
-permalink: /
 ---
 
 ## About
