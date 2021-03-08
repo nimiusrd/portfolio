@@ -25,6 +25,12 @@ I love refectoring!
   - Akka
 - GCP
 
+## Part-time jobs
+
+2016-2017 Refactoring test code(Dojo's Test -> Jasmine)
+2017-2018 Development using Python and GCP to analysis customers' data
+2019- Development using Vue, Vuex and PHP
+
 ## Works
 
 ### 人狼ゲームプラットフォームLiCOSのフロントエンド開発 / Front-end development of the werewolf game platform LiCOS
