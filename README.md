@@ -51,7 +51,7 @@ repositry：
 https://github.com/YNUWAIWAI/YNUWAIWAI.github.io  
 skill：RubyGem/Docker
 
-### 横浜国立大学YNUアプリコンテスト / Yokohama National University application contest (YAC)
+### 横浜国立大学YNUアプリコンテスト(YAC) / Yokohama National University application contest (YAC)
 
 YAC2015 「Rakumo賞」 (Sponsor Award)： Team "Marshmallow"  
 http://ynu.yokohama/yac2016/yac2015-rakumo%E8%B3%9E%EF%BC%9A%E3%80%8Cmarshmallow%E3%80%8D%E3%83%81%E3%83%BC%E3%83%A0/  
@@ -59,8 +59,8 @@ http://ynu.yokohama/yac2016/yac2015-rakumo%E8%B3%9E%EF%BC%9A%E3%80%8Cmarshmallow
 YAC2017 運営 / Operation  
 http://ynu.yokohama/yac2017/members/  
 
-### 高井戸第三小学校から学生の保護者に向けた連絡を配信するサイト（学校からの依頼あり)
+### 高井戸第三小学校から学生の保護者に向けた連絡を配信するサイト / Blog service
 https://sns.taka3sh.org  
 repositry：
 https://github.com/taka3sh/sns.taka3sh.org  
-skill：TypeScript/React/Go/Firebase/GAE
+skill：TypeScript/React/Go/Firebase/GAE  
