@@ -1,3 +1,7 @@
+---
+title: Portfolio
+---
+
 ## About
 name: 宇田川悠大 (Yudai Udagawa)
 
@@ -41,7 +45,8 @@ repositry：
 https://github.com/YNUWAIWAI/LiCOS-JSON4TypeScript 
 skill：TypeScript/React/Redux/WebSocket 
 
-### 横浜国大のサークルのブログサイト
+### 横浜国大のサークルのブログサイト / My club blog site
+
 https://ynuwaiwai.github.io 
 repositry：
 https://github.com/YNUWAIWAI/YNUWAIWAI.github.io 
