@@ -23,7 +23,7 @@ affiliation: 1st year of Master course at Yokohama National University, Graduate
   - Akka
 - GCP
 
-## Performance
+## Works
 
 ### 人狼ゲームプラットフォームLiCOSのフロントエンド開発 / Front-end development of the werewolf game platform LiCOS
 https://ynuwaiwai.github.io/werewolf-client  
