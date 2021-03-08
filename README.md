@@ -4,6 +4,8 @@ title: Portfolio
 
 ## About
 name: 宇田川悠大 (Yudai Udagawa)
+from: Japan, Tokyo
+
 
 ## Skill
 
