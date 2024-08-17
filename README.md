@@ -1,6 +1,7 @@
 # Portfolio (before employment)
 
-> ![NOTE] Please contact me for details of my career after employment.
+> [!NOTE]
+> Please contact me for details of my career after employment.
 
 ## About
 - name: 宇田川悠大 (Yudai Udagawa)
