@@ -1,9 +1,13 @@
-# Portfolio
+# Portfolio (before employment)
+
+> ![NOTE] Please contact me for details of my career after employment.
+
 ## About
-name: 宇田川悠大 (Yudai Udagawa)  
-from: Japan, Tokyo  
-affiliation: 1st year of Master course at Yokohama National University, Graduate School of Engineering Science  
-hobby: Pokémon GO  
+- name: 宇田川悠大 (Yudai Udagawa)
+- from: Japan, Tokyo
+- education: Master of Engineering, Yokohama National University, Graduate School of Engineering Science
+- hobby: Pokémon GO
+
 I love refectoring and thinking good architecture!
 
 ## Skill
@@ -23,18 +27,24 @@ I love refectoring and thinking good architecture!
 - Scala
   - Play Framework
   - Akka
-- GCP
+- Google Cloud
 
 ## Part-time jobs
 
 2016-2017 Refactoring test code(Dojo's Test -> Jasmine)  
 2017-2018 Development using Python and GCP to analyze customers' data  
-2019- Development using Vue, Vuex and PHP
+2019-2021 Development using Vue, Vuex and PHP
 
 ## Works
 
+### Design of high-order series-coupled microring resonator wavelength filter with differential evolution method
+2022
+repositry: https://github.com/nimiusrd/MRR
+paper: https://iopscience.iop.org/article/10.35848/1347-4065/ac692f
+skill: Python/numpy
+
 ### 人狼ゲームプラットフォームLiCOSのフロントエンド開発 / Front-end development of the werewolf game platform LiCOS
-2017-
+2017-2021
 https://ynuwaiwai.github.io/werewolf-client  
 repositry：
 https://github.com/YNUWAIWAI/werewolf-client  
@@ -44,14 +54,14 @@ TypeScript/React/Redux/WebSocket/Storybook
 * Front-end development is almost completed, but server-side development is stoped now. So I take over server-side development.
 
 ### 人狼ゲームプラットフォームLiCOSのHow to play等の文書公開サイト＋国際化 / Documentation and internationalization of how to play the werewolf game platform LiCOS
-2019-
+2019-2021
 https://werewolfguide.netlify.app/docs/en/introduction  
 repositry：
 https://github.com/YNUWAIWAI/werewolfguide  
 skill：TypeScript/React/Docker/Netlify/Crowdin/Docusaurus
 
 ### 人狼ゲームプラットフォームLiCOSで人狼ゲームをプレイするロボットプレイヤーをTypeScriptで開発するのためのライブラリ / TypeScript Library for developing robot players running on the werewolf game platform LiCOS
-2019-
+2019-2021
 repositry：
 https://github.com/YNUWAIWAI/LiCOS-JSON4TypeScript  
 skill：TypeScript/React/Redux/WebSocket
