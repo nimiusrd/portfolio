@@ -41,7 +41,7 @@ I love refectoring and thinking good architecture!
 ### Design of high-order series-coupled microring resonator wavelength filter with differential evolution method
 - 2022
 - repositry: https://github.com/nimiusrd/MRR
-- paper: https://iopscience.iop.org/article/10.35848/1347-4065/ac692f　　
+- paper: https://iopscience.iop.org/article/10.35848/1347-4065/ac692f
 - skill: Python/numpy　　
 
 ### 人狼ゲームプラットフォームLiCOSのフロントエンド開発 / Front-end development of the werewolf game platform LiCOS
